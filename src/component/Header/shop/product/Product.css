@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    margin: px 50px;
+    padding: 10px 0px;
+    border-bottom: 1px solid lightgrey;
+    border-right: 1px solid lightgrey;
+}
+.product-info{
+   text-align: left;
+   margin: 0px 20px;
+}
+.product h3{
+    font-weight: 400;
+    color: blue;
+}
+button{
+    padding: 10px 50px;
+    background-color: gold;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.fa-star{
+    color: goldenrod;
+}
